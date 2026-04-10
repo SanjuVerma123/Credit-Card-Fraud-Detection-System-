@@ -116,6 +116,9 @@ streamlit run app.py
 
 ---
 
+## 📸 Application Screenshot
+![App Screenshot](app_screenshot.png)
+
 ## ⚠️ Challenges
 
 * Highly imbalanced dataset
@@ -142,8 +145,8 @@ streamlit run app.py
 
 ---
 ## 🔗 Connect With Me
-💼 LinkedIn: [Linkedin Profile](https://www.linkedin.com/in/sanju123)
-💻 GitHub: [GitHub Profile](https://github.com/SanjuVerma123)
+* 1. 💼 LinkedIn: [Linkedin Profile](https://www.linkedin.com/in/sanju123)
+* 2. 💻 GitHub: [GitHub Profile](https://github.com/SanjuVerma123)
 
 ## 👨‍💻 Author
 
