@@ -65,7 +65,7 @@ Credit-Card-Fraud-Detection/
 ├── app.py
 ├── requirements.txt
 ├── README.md
-└── notebook.ipynb
+└── Credit_Card.ipynb
 ```
 
 ---
